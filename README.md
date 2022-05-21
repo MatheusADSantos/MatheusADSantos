@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with CI/CD to automate some porcess from build/deploy mobile(Android/iOS)
 - 🌱 I’m currently learning tools like Fastlane, Gitlab CI 
 - 💬 Ask me about anything ^^
-- 📫 How to reach me: madsfordev@gmail.com
+- 📫 How to reach me: https://www.instagram.com/madsfordev/  |  madsfordev@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...  -->
 <!-- - 😄 Pronouns: ...  -->
