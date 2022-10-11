@@ -1,7 +1,7 @@
 ## Hi! I'm Matheus Santos.
 
-- 🔭 I’m currently working with CI/CD to automate some porcess from build/deploy mobile(Android/iOS)
-- 🌱 I’m currently learning tools like Fastlane, Gitlab CI 
+- 🔭 I’ve worked with CI/CD to automate some porcess from build/deploy with Fastlane and Gitlab to mobile(Android/iOS)
+- 🌱 I’m currently learning kotlin mobile 
 - 💬 Ask me about anything ^^
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-ad-santos/  |  https://www.instagram.com/madsfordev/
 <!-- - 👯 I’m looking to collaborate on ... -->
