@@ -1,5 +1,13 @@
 ## Hi! I'm Matheus Santos.
 
+<div align="center">
+  <kbd align="center"> 
+    <kbd>Number of Visits</kbd>
+    <br/><br/>
+    <img src="https://profile-counter.glitch.me/MatheusADSantos/count.svg"></p>
+  </kbd>
+</div>
+
 - 🔭 I’ve worked with CI/CD to automate some porcess from build/deploy with Fastlane and Gitlab to mobile(Android/iOS)
 - 🌱 I’m currently learning kotlin mobile 
 - 💬 Ask me about anything ^^
